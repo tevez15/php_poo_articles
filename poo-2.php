@@ -17,7 +17,7 @@
     }
                             
     $conta1 = new Conta();
-    $conta1 ->depositar(500);
+    $conta1->depositar(500);
     $conta1->levantar(20);
 
     $conta2 = new Conta();
